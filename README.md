@@ -1,13 +1,16 @@
-## Scope, hoisting and compartmentalization
+# Scope, hoisting and compartmentalization
 
-### Answer the following:
-In you own words, explain the concepts of scope, hoisting, compartmentalization.
+### Complete or fix the broken code to make all assertions pass
 
+#### Objects
 
-### Provide examples for all three, below:
+Complete or fix each object to make the assertion pass.
 
-#### Scope:
+#### Scope, Compartmentalization and Hoisting
 
-#### Hoisting:
+Fix each function to make the assertions pass.
 
-#### Compartmentalization:
+#### Object Notation
+
+If a property is missing, use either bracket or dot notation to make the assertions pass.
+
